@@ -1,5 +1,5 @@
 
-// variables
+// variables - Primitive and Reference Types
 // let name;
 
 let firstName = 'Ravi', lastName='Gadela';
