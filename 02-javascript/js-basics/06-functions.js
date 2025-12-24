@@ -1,4 +1,5 @@
 
+// 06-Javascript Functions 
 //Function Declaration
 function walk() {
     console.log('walk');
