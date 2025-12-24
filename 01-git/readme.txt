@@ -25,7 +25,9 @@ git branch -r
 Local and Remote Tracking Branches
 git branch -vv
 
+git checkout -b <local-branch-name> origin/<remote-branch-name>
 
+git checkout -b 04-Typescript origin/04-Typescript
 
 
 
