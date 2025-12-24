@@ -1,4 +1,5 @@
 
+// 01- Javascript Premitive Variables
 // variables - Primitive and Reference Types
 // let name;
 
