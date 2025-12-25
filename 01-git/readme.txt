@@ -29,12 +29,7 @@ git checkout -b <local-branch-name> origin/<remote-branch-name>
 
 git checkout -b 04-Typescript origin/04-Typescript
 
+git stash --> This will stash the current changes
+git stash pop --> This will bring back the changes
 
-
-
-
-
-
-
-
-
+git remote -v --> Verboses
