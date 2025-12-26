@@ -17,6 +17,12 @@ Ctrl + Space for help - Put the cursor within double quotes and press Ctrl + Spa
 select the expression and type ( then vscode will put the expression within parenthersis if ( x % 3 == 0 && x%5 === 0 ) 
 move the selection up - select the line - press the Alt key and up arrow
 
+Change all the variables in the file with one change 
+select the word, press F2 and change and Enter
+
+Autofill the code --> Ctrl .
+
+
 
 
 
