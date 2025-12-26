@@ -21,6 +21,7 @@ Change all the variables in the file with one change
 select the word, press F2 and change and Enter
 
 Autofill the code --> Ctrl .
+Ctrl Space to get help from vscode
 
 
 
