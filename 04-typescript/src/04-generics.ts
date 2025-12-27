@@ -28,6 +28,7 @@ interface Result<T> {
 }
 
 function fetch<T>(url: string) : Result<T> {
+    console.log(url);
     return {data: null, error: null}
 }
 
@@ -105,6 +106,7 @@ class SearchableStore<T extends {name:string}> extends Store<T> {
 //3. Fix or Terminate the Generic
 class ProductStore extends Store<Product> {
     filterByCategory(category: string) : Product[] {
+       console.log(category);
         return [];
     } 
 }

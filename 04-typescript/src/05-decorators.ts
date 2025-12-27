@@ -8,6 +8,8 @@
 //Function Decorators
 
 function Log(target: any,methodName: string, descriptor: PropertyDescriptor) : void {
+    console.log(target);
+    console.log(methodName);
     descriptor.value = function() {
         const original = descriptor.value as Function
         console.log('Before')
